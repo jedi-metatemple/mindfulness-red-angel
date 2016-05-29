@@ -1,0 +1,7 @@
+<sect>
+<title>While Doing Specific Tasks</title>
+
+<include ref = "basics.xml" />
+<include ref = "certain-tasks.xml" />
+
+</sect>

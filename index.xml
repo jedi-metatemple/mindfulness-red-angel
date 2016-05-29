@@ -1,0 +1,10 @@
+<sect>
+<title>Red Angel's Mindfulness Guide</title>
+
+<include ref = "extx.xml" />
+
+<include ref = "introduction/index.xml" />
+<include ref = "mindfulness-bell/index.xml" />
+<include ref = "on-any-task/index.xml" />
+
+</sect>
